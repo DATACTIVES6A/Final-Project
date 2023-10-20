@@ -5,4 +5,5 @@ Anggota Kelompok:
 - Dendi Pratama Putra Pamungkas
 - Syahril
 - Glody Syah Rabbynawa
+- Susi Amelia
 
