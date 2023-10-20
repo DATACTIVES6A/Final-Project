@@ -1,5 +1,5 @@
 # Final-Project
-Nama Kelomppok: Yudha Adi Putra
+Nama Kelompok: Datactive
 Anggota Kelompok:
 - Yudha Adi Putra
 - Dendi Pratama Putra Pamungkas
