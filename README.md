@@ -6,4 +6,5 @@ Anggota Kelompok:
 - Syahril
 - Glody Syah Rabbynawa
 - Susi Amelia
+- Sindi Mustika Putri
 
