@@ -4,5 +4,5 @@ Anggota Kelompok:
 - Yudha Adi Putra
 - Dendi Pratama Putra Pamungkas
 - Syahril
--
+- Glody Syah Rabbynawa
 
