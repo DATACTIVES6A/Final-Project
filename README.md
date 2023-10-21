@@ -7,4 +7,5 @@ Anggota Kelompok:
 - Glody Syah Rabbynawa
 - Susi Amelia
 - Sindi Mustika Putri
+- Sailina Karimah Syarifudin
 
