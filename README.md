@@ -31,28 +31,4 @@
 - Start the server for development `python3 main.py`
 
 ### Sumary
-# Data Cleansing
-- Handle Mising Values tidak perlu dilakukan karena data tidak memiliki missing value.
-- Handle Duplicated data tidak dilakukan karena tidak ada data yang duplikat,
-- Handle Outliers menggunakan metode Z Score terjadi penurunan Outliers sebanyak 3%.
-- Feature Transformation 
-- Feature Encoding
-- Handle Class Imbalance Data kolom target terlihat cukup seimbang , sehingga tidak perlu dilakukan Handle class imbalance.
-
-# Feature Engineering
-Berdasarkan heatmap yg akan dipilih kolom dengan the threshold (0,05) dengan kolom target Reached.on.Time_YN: Customer_care_calls, Cost_of_the_Products, Prior_Purchases, Discount_offered, dan Weight_in_grms.
-
-# Objective
-Mengurangi jumlah false negative untuk menghindari customer yang
-pengirimannya terlambat tetapi diprediksi sampai tepat waktu
-# Metrics model : Recall
-- Target : mengurangi False Negative
-# Modeling : Decision Tree
-#Feature Importance 
-Dengan menggunakan asumsi bahwa fitur yang memiliki tingkat kepentingan yang tinggi adalah fitur dengan nilai lebih dari 0.05, pada data berikut memiliki 5 fitur penting :
-1. Weight in grams
-2. Discount offered
-3. Cost of the product
-4. Prior purchase
-5. Customer care call
-
+Click here[https://www.canva.com/design/DAF4Qz21vRU/aQhq73Wg7t90De3PYUwIYg/edit?utm_content=DAF4Qz21vRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
