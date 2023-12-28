@@ -31,4 +31,4 @@
 - Start the server for development `python3 main.py`
 
 ## 📣 Sumary
-Click [here](https://www.canva.com/design/DAFzZk3yN8s/EqoV3J25yptD74TpaZROSQ/view?utm_content=DAFzZk3yN8s&utm_campaign=designshare&utm_medium=link&utm_source=editor!!!
+Click [here](https://www.canva.com/design/DAFzZk3yN8s/EqoV3J25yptD74TpaZROSQ/view?utm_content=DAFzZk3yN8s&utm_campaign=designshare&utm_medium=link&utm_source=editor)!!!
