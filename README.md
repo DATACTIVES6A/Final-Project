@@ -30,5 +30,5 @@
 - Install Python requirements `pip install -r requirements.txt`
 - Start the server for development `python3 main.py`
 
-### Sumary
-Click here[https://www.canva.com/design/DAF4Qz21vRU/aQhq73Wg7t90De3PYUwIYg/edit?utm_content=DAF4Qz21vRU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+## 📣 Sumary
+Click [here](https://www.canva.com/design/DAFzZk3yN8s/EqoV3J25yptD74TpaZROSQ/view?utm_content=DAFzZk3yN8s&utm_campaign=designshare&utm_medium=link&utm_source=editor!!!
